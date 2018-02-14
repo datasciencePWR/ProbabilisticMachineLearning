@@ -1,5 +1,5 @@
 # Probabilistyczne Uczenia Maszynowego
-## 2017/208 lato
+## 2017/2018 lato
 
 ### Wykład
 
