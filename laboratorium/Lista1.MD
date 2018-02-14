@@ -12,7 +12,7 @@
 
 ### Excersises:
 
-1.  Write infinite discrete random discrete values generator (integer number from given range, python generators, yield) and visualize how probability of given numbers change in time (matplotlib animation)
+1.  Write infinite random discrete values generator (integer number from given range, python generators, yield) and visualize how probability of given numbers change in time (matplotlib animation)
 2.  Using generator from previous task, visualize probability of occurrence for two consecutive numbers in the stream (matplotlib animation, heatmaps) 
 3. TBD
 
