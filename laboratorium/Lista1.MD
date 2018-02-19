@@ -5,10 +5,9 @@
 -  Random variables
 -  Rules of Probability for Discrete Variables
 -  Marginals and conditional probability
--  PDF - probability density functions
--  CDF: Cumulative Distribution Function
+-  pdf - probability density functions
+-  pmf- Probability mass function
 -  Independence, conditional Independence
--  Prior, Likelihood and Posterior
 
 ### Excersises:
 
