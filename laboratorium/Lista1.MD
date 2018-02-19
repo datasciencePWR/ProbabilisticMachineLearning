@@ -8,13 +8,16 @@
 -  pdf - probability density functions
 -  pmf- Probability mass function
 -  Independence, conditional Independence
+-  Bayes rule
 
 ### Excersises:
 
-1.  Write infinite random discrete values generator (integer number from given range, python generators, yield) and visualize how probability of given numbers change in time (matplotlib animation)
-2.  Using generator from previous task, visualize probability of occurrence for two consecutive numbers in the stream (matplotlib animation, heatmaps) 
-3. TBD
-
+1. (3 points) Write infinite random discrete values generator (integer number from given range, python generators, yield) and visualize how probability of given numbers change in time (matplotlib animation)
+2. (4 points) Using generator from previous task, visualize probability of occurrence for two consecutive numbers in the stream (matplotlib animation, heatmaps) 
+3. (5 points) Write a simulator for chances to be ill on a certain disease. We know that it affects from about 1 to 100 out of 50,000 people. There was developed a test to check whether the person has the disease and it is quite accurate: 
+the probability that the test result is positive (suggesting the person has the disease), given that the person does not have the disease, is only 2 percent;
+the probability that the test result is negative (suggesting the person does not have the disease), given that the person has the disease, is only 1 percent.
+When a random person gets tested for the disease and the result comes back positive, what is the probability that the person has the disease? Check whole parameter space and visualise results.
 
 
 ### Sample code:
