@@ -11,13 +11,13 @@ Prowadzący: Tomasz Kajdanowicz, Roman Bartusiak
 
 1.  Kurs można jedynie zaliczyć poprzez wykonywanie list zadań
 2.  Na  kursie  realizowane  będą  zadania  związane  z  materiałami  podanymi  na  wykładzie  w języku Python
-3.  Warunki zaliczenia: 
-    1.  Nie więcej niż jedna nieusprawiedliwiona nieobecność w semestrze. Usprawiedliwienie należy przedstawić na pierwszych zajęciach bezpośrednio po nieobecności.
+3.  Warunki zaliczenia:
+    1.  Nie więcej niż jedna nieusprawiedliwiona nieobecność w semestrze. Usprawiedliwienie należy przedstawić na pierwszych zajęciach bezpośrednio po nieobecności.
     2.  Zgromadzenie ponad 50% punktów za wykonane w ramach kursu zadania.
 4.  Ocenianie:
     1.  Na ocenę wystawioną przez prowadzącego składają się następujące elementy:
-        1.  Wykonywanie ćwiczeń zadanych przez prowadzącego.
-        2.  Wiedza teoretyczna (sprawdzana podczas prezentacji list na zajęciach)
+        1.  Wykonywanie ćwiczeń zadanych przez prowadzącego
+        2.  Wiedza teoretyczna (sprawdzana podczas prezentacji list na zajęciach)
         3.  Każda lista punktowana jest osobno 
         4.  Terminowość prezentowania rozwiązań list zadań
             -  Wysłanie rozwiązania na adres mailowy prowadzącego/w systemesystemic eportal (najpóźniej do początku zajęć, na których prezentowana jest dana lista)
