@@ -12,7 +12,7 @@ Prowadzący: Tomasz Kajdanowicz, Roman Bartusiak
 1.  Kurs można jedynie zaliczyć poprzez wykonywanie list zadań
 2.  Na  kursie  realizowane  będą  zadania  związane  z  materiałami  podanymi  na  wykładzie  w języku Python
 3.  Warunki zaliczenia:
-    1.  Nie więcej niż jedna nieusprawiedliwiona nieobecność w semestrze. Usprawiedliwienie należy przedstawić na pierwszych zajęciach bezpośrednio po nieobecności.
+    1.  Nie więcej niż dwie nieusprawiedliwione nieobecność w semestrze. Usprawiedliwienie należy przedstawić na pierwszych zajęciach bezpośrednio po nieobecności.
     2.  Zgromadzenie ponad 50% punktów za wykonane w ramach kursu zadania.
 4.  Ocenianie:
     1.  Na ocenę wystawioną przez prowadzącego składają się następujące elementy:
