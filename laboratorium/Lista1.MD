@@ -1,4 +1,4 @@
-# Lista zadań 1
+# Task List 1
 ## Probability Refresher
 
 ### Knowledge:
