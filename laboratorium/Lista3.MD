@@ -12,32 +12,41 @@
 ### Exercises:
 1. (2 p.)Visualize how CLT is observable and depends on the number of trials with experiments described by Bernoulli, binomial and multinomial distributions. Explain observations.
     How to:
-        1. Simple introduction:
-            - Generate k samples of size n from an exponential distribution
-            - Draw a histogram of a mean value of each sample
-            - Create histogram animation using n parameter (animation starts with n=0, increase in each frame)
-        2. Bernoulli:
-            - generate n Bernoulli trials (with probability p)
-            - Count number of successes in each trial
-            - Visualize histogram of the number of successes
-            - Create histogram animation using n parameter (animation starts with n=0, increase in each frame)
-        3. Binomial:
-        	- Have you alredy done it? Think about it.
-        4. Multinomial:
-        	- As in pt 2
+
+    1. Simple introduction:
+
+	    - Generate k samples of size n from an exponential distribution
+	    - Draw a histogram of a mean value of each sample
+	    - Create histogram animation using n parameter (animation starts with n=0, increase in each frame)
+
+    2. Bernoulli:
+
+	    - generate n Bernoulli trials (with probability p)
+	    - Count number of successes in each trial
+	    - Visualize histogram of the number of successes
+	    - Create histogram animation using n parameter (animation starts with n=0, increase in each frame)
+
+    3. Binomial:
+
+		- Have you alredy done it? Think about it.
+
+    4. Multinomial:
+
+		- As in Bernoulli
 
 2. (3 p.)Acquire two appropriate datasets from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/) (script within notebook/collaboratory, using pandas for manipulation) and provide an exploratory analysis of its content:
 
     Dataset requirements:
 
-    - at least five numerical attributes attributes
-    - at least 1000 instances
+	    - at least five numerical attributes attributes
+	    - at least 1000 instances
 
     Tasks:
-    - scatter plot of EACH attribute pair (matrix of plots), on diagonal we want to see histogram of given attribute ([link](https://seaborn.pydata.org/tutorial/distributions.html), [link](https://seaborn.pydata.org/generated/seaborn.PairGrid.html#seaborn.PairGrid), [link](https://pandas.pydata.org/pandas-docs/stable/visualization.html#scatter-matrix-plot))
-    - scatter plot of each attribute pair with histograms on axes (write a function that generates plot for given attributes pair) ([link](https://seaborn.pydata.org/generated/seaborn.jointplot.html#seaborn.jointplot))
-    - correlation (for EACH attribute pair, if appropriate)
-    - covariances (for EACH attribute pair, if appropriate)
+    
+	    - scatter plot of EACH attribute pair (matrix of plots), on diagonal we want to see histogram of given attribute ([link](https://seaborn.pydata.org/tutorial/distributions.html), [link](https://seaborn.pydata.org/generated/seaborn.PairGrid.html#seaborn.PairGrid), [link](https://pandas.pydata.org/pandas-docs/stable/visualization.html#scatter-matrix-plot))
+	    - scatter plot of each attribute pair with histograms on axes (write a function that generates plot for given attributes pair) ([link](https://seaborn.pydata.org/generated/seaborn.jointplot.html#seaborn.jointplot))
+	    - correlation (for EACH attribute pair, if appropriate)
+	    - covariances (for EACH attribute pair, if appropriate)
 
 Elaborate on results.
 
