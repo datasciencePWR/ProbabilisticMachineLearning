@@ -38,15 +38,15 @@
 
     Dataset requirements:
 
-	    - at least five numerical attributes attributes
-	    - at least 1000 instances
+    - at least five numerical attributes attributes
+    - at least 1000 instances
 
     Tasks:
     
-	    - scatter plot of EACH attribute pair (matrix of plots), on diagonal we want to see histogram of given attribute ([link](https://seaborn.pydata.org/tutorial/distributions.html), [link](https://seaborn.pydata.org/generated/seaborn.PairGrid.html#seaborn.PairGrid), [link](https://pandas.pydata.org/pandas-docs/stable/visualization.html#scatter-matrix-plot))
-	    - scatter plot of each attribute pair with histograms on axes (write a function that generates plot for given attributes pair) ([link](https://seaborn.pydata.org/generated/seaborn.jointplot.html#seaborn.jointplot))
-	    - correlation (for EACH attribute pair, if appropriate)
-	    - covariances (for EACH attribute pair, if appropriate)
+    - scatter plot of EACH attribute pair (matrix of plots), on diagonal we want to see histogram of given attribute ([link](https://seaborn.pydata.org/tutorial/distributions.html), [link](https://seaborn.pydata.org/generated/seaborn.PairGrid.html#seaborn.PairGrid), [link](https://pandas.pydata.org/pandas-docs/stable/visualization.html#scatter-matrix-plot))
+    - scatter plot of each attribute pair with histograms on axes (write a function that generates plot for given attributes pair) ([link](https://seaborn.pydata.org/generated/seaborn.jointplot.html#seaborn.jointplot))
+    - correlation (for EACH attribute pair, if appropriate)
+    - covariances (for EACH attribute pair, if appropriate)
 
 Elaborate on results.
 
