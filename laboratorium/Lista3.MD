@@ -58,4 +58,4 @@ Elaborate on results.
 3. Collaboratory allows you to create animation easily (look at List 1 code snippet)
 4. Do not repeat your self, write functions and loops instead of copying code
 5. Use documentation of libraries (API, tutorials etc.)
-6. (Correlation != Causation)[http://www.tylervigen.com/spurious-correlations]
+6. [Correlation != Causality](http://www.tylervigen.com/spurious-correlations)

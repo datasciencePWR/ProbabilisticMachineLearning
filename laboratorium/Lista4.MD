@@ -42,4 +42,3 @@
  - Do not repeat yourself, check if the implementation of one task is also the implementation of others,
  - Do not copy your code, create functions and reuse them
  - [book](https://github.com/jonesgithub/book-1/blob/master/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf)
- - [Correlation != Causality](http://www.tylervigen.com/spurious-correlations)
