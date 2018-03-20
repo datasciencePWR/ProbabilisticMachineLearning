@@ -6,5 +6,5 @@
 
 or
 
-- (5pkt) [coding skills](https://www.codewars.com/kata/search/python?q=&r=-5&tags=)
+- (5pkt) [coding skills](https://www.codewars.com/kata/search/python?q=&r=-7&tags=)
 
