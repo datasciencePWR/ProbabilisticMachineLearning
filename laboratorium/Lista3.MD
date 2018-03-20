@@ -17,11 +17,11 @@
 
 	    - Generate k samples of size n from an exponential distribution
 	    - Draw a histogram of a mean value of each sample
-	    - Create histogram animation using n parameter (animation starts with n=0, increase in each frame)
+	    - Create histogram animation using n parameter (animation starts with k=0, increase in each frame)
 
     2. Bernoulli:
 
-	    - generate n Bernoulli trials (with probability p)
+	    - generate k sets of n Bernoulli trials (with probability p)
 	    - Count number of successes in each trial
 	    - Visualize histogram of the number of successes
 	    - Create histogram animation using n parameter (animation starts with n=0, increase in each frame)
@@ -32,7 +32,7 @@
 
     4. Multinomial:
 
-		- As in Bernoulli
+		- Analogically in Bernoulli
 
 2. (3 p.)Acquire two appropriate datasets from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/) (script within notebook/collaboratory, using pandas for manipulation) and provide an exploratory analysis of its content:
 
