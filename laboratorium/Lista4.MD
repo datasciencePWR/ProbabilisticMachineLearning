@@ -14,7 +14,7 @@
     Number game rules:
     - program takes number(numbers) and prints selected hypothesis using apropriate method
     - numbers are in range [1-500] (inclusive)
-    - hyphotesis space : odd numbers, even numbers, arithmetic sequences ([2,4,6,8,10,12,...], [3,6,9,12,15,...], ..., [40,80,120,160,...], ...)
+    - hypothesis space : odd numbers, even numbers, arithmetic sequences ([2,4,6,8,10,12,...], [3,6,9,12,15,...], ..., [40,80,120,160,...], ...)
 
 1. Implement a simple number game based only on the likelihood:
     - the program takes a number or an array of numbers 
