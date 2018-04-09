@@ -23,7 +23,7 @@
 3. (3p.) Implement sequential way of updating posterior (online learning):
     - write apropriate methods using Beta distribution
     - demonstrate on chart how posterior evolves with data stream (eg. one by one example)
-    - perform online learning learning experiment with two datasets from UCI data repository
+    - perform online learning experiment with two datasets from UCI data repository
     
 ### Remarks
  - Do not repeat yourself, check if the implementation of one task is also the implementation of others,
