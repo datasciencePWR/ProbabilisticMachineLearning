@@ -1,4 +1,4 @@
-# Task List 6 - Grupy wtorkowe
+# Task List 6
 
 ### Exercises:
 
