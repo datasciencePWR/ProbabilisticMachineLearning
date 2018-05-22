@@ -11,7 +11,7 @@
 1. Prepare representation of HMM: (apropriate classes representing states, observations, emission probabilities, transition probabilities)
 2. Create one simple HMM model
 3. Visualize created model (picture of graph, differend vertices shapes for hidden states, different for observations etc.)
-4. Implement method that vill compute most probable state sequence for given ovserved sequence (Viterbi algorithm)
+4. Implement method that will compute most probable state sequence for given ovserved sequence (Viterbi algorithm)
 
 
 
